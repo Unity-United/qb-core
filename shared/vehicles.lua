@@ -5608,4 +5608,14 @@ QBShared.Vehicles = {
         ['hash'] = `19hoe`,
         ['shop'] = 'luxury',
     },
+    ['pbus'] = {
+        ['name'] = 'LEO Only | Prison Bus',
+        ['brand'] = 'Prison',
+        ['model'] = 'pbus',
+        ['price'] = 72000,
+        ['category'] = 'law',
+        ['categoryLabel'] = 'law',
+        ['hash'] = `pbus`,
+        ['shop'] = 'luxury',
+    },
 }
