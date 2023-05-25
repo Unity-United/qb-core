@@ -5720,8 +5720,8 @@ QBShared.Vehicles = {
         ['shop'] = 'luxury',
     },
     ['enforcerta'] = {
-        ['name'] = 'SAFR Only | enforcerta',
-        ['brand'] = 'Dodge',
+        ['name'] = 'SAFR Only | Pierce Enforcer',
+        ['brand'] = 'Pierce',
         ['model'] = 'enforcerta',
         ['price'] = 72000,
         ['category'] = 'medic',
@@ -5750,8 +5750,8 @@ QBShared.Vehicles = {
         ['shop'] = 'luxury',
     },
     ['fordambo'] = {
-        ['name'] = 'SAFR Only | fordambo',
-        ['brand'] = 'Dodge',
+        ['name'] = 'SAFR Only | Ambulance',
+        ['brand'] = 'Ford',
         ['model'] = 'fordambo',
         ['price'] = 72000,
         ['category'] = 'medic',
@@ -5760,8 +5760,8 @@ QBShared.Vehicles = {
         ['shop'] = 'luxury',
     },
     ['fpispov'] = {
-        ['name'] = 'SAFR Only | fpispov',
-        ['brand'] = 'Dodge',
+        ['name'] = 'SAFR Only | Command FPIS',
+        ['brand'] = 'Ford',
         ['model'] = 'fpispov',
         ['price'] = 72000,
         ['category'] = 'medic',
@@ -5790,8 +5790,8 @@ QBShared.Vehicles = {
         ['shop'] = 'luxury',
     },
     ['frescue'] = {
-        ['name'] = 'SAFR Only | frescue',
-        ['brand'] = 'Dodge',
+        ['name'] = 'SAFR Only | Freightliner Rescue',
+        ['brand'] = 'Pierce',
         ['model'] = 'frescue',
         ['price'] = 72000,
         ['category'] = 'medic',
@@ -5810,8 +5810,8 @@ QBShared.Vehicles = {
         ['shop'] = 'luxury',
     },
     ['fwild'] = {
-        ['name'] = 'SAFR Only | fwild',
-        ['brand'] = 'Dodge',
+        ['name'] = 'SAFR Only | Freightline Wildland Rescue',
+        ['brand'] = 'Pierce',
         ['model'] = 'fwild',
         ['price'] = 72000,
         ['category'] = 'medic',
@@ -5850,7 +5850,7 @@ QBShared.Vehicles = {
         ['shop'] = 'luxury',
     },
     ['rampov'] = {
-        ['name'] = 'SAFR Only | rampov',
+        ['name'] = 'SAFR Only | Ram Fire Rescue',
         ['brand'] = 'Dodge',
         ['model'] = 'rampov',
         ['price'] = 72000,
