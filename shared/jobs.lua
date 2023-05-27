@@ -45,7 +45,7 @@ QBShared.Jobs = {
         },
 	},
 	['ambulance'] = {
-		label = 'EMS',
+		label = 'SAFR',
         type = 'ems',
 		defaultDuty = true,
 		offDutyPay = false,
@@ -163,6 +163,70 @@ QBShared.Jobs = {
             },
 			['4'] = {
                 name = 'Manager',
+				isboss = true,
+                payment = 150
+            },
+        },
+	},
+    ['airline'] = {
+		label = 'Airline Member',
+		defaultDuty = true,
+		offDutyPay = false,
+		grades = {
+            ['0'] = {
+                name = 'Trainee',
+                payment = 50
+            },
+            ['1'] = {
+                name = 'Security',
+                payment = 50
+            },
+            ['2'] = {
+                name = 'Flight Attendant',
+                payment = 50
+            },
+			['3'] = {
+                name = 'Junior Pilot',
+                payment = 75
+            },
+			['4'] = {
+                name = 'Pilot',
+                payment = 100
+            },
+			['5'] = {
+                name = 'Senior Pilot',
+                payment = 125
+            },
+            ['6'] = {
+                name = 'Captain',
+                payment = 125
+            },
+            ['7'] = {
+                name = 'Training Captain',
+                payment = 125
+            },
+            ['8'] = {
+                name = 'CEO',
+                isboss = true,
+                payment = 125
+            },
+            ['9'] = {
+                name = 'CTO',
+                isboss = true,
+                payment = 125
+            },
+            ['10'] = {
+                name = 'CFO',
+                isboss = true,
+                payment = 125
+            },
+            ['11'] = {
+                name = 'Director',
+                isboss = true,
+                payment = 125
+            },
+			['12'] = {
+                name = 'FAA',
 				isboss = true,
                 payment = 150
             },
