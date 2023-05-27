@@ -5536,7 +5536,7 @@ QBShared.Vehicles = {
         ['category'] = 'law',
         ['categoryLabel'] = 'law',
         ['hash'] = `cvpi`,
-        ['shop'] = 'luxury',
+        ['shop'] = 'law',
     },
     ['16exp'] = {
         ['name'] = 'LEO Only | 2016 FPIU',
@@ -5546,7 +5546,7 @@ QBShared.Vehicles = {
         ['category'] = 'law',
         ['categoryLabel'] = 'law',
         ['hash'] = `16exp`,
-        ['shop'] = 'luxury',
+        ['shop'] = 'law',
     },
     ['tau'] = {
         ['name'] = 'LEO Only | 2016 FPIS',
@@ -5556,7 +5556,7 @@ QBShared.Vehicles = {
         ['category'] = 'law',
         ['categoryLabel'] = 'law',
         ['hash'] = `tau`,
-        ['shop'] = 'luxury',
+        ['shop'] = 'law',
     },
     ['18charger'] = {
         ['name'] = 'LEO Only | 2018 Charger',
@@ -5566,7 +5566,7 @@ QBShared.Vehicles = {
         ['category'] = 'law',
         ['categoryLabel'] = 'law',
         ['hash'] = `18charger`,
-        ['shop'] = 'luxury',
+        ['shop'] = 'law',
     },
     ['camaro'] = {
         ['name'] = 'LEO Only | 2019 Camaro',
@@ -5576,7 +5576,7 @@ QBShared.Vehicles = {
         ['category'] = 'law',
         ['categoryLabel'] = 'law',
         ['hash'] = `camaro`,
-        ['shop'] = 'luxury',
+        ['shop'] = 'law',
     },
     ['19hoe'] = {
         ['name'] = 'LEO Only | 2019 Tahoe',
@@ -5586,7 +5586,7 @@ QBShared.Vehicles = {
         ['category'] = 'law',
         ['categoryLabel'] = 'law',
         ['hash'] = `19hoe`,
-        ['shop'] = 'luxury',
+        ['shop'] = 'law',
     },
     ['pbus'] = {
         ['name'] = 'LEO Only | Prison Bus',
@@ -5596,7 +5596,7 @@ QBShared.Vehicles = {
         ['category'] = 'law',
         ['categoryLabel'] = 'law',
         ['hash'] = `pbus`,
-        ['shop'] = 'luxury',
+        ['shop'] = 'law',
     },
     -- SAFR Vehicles
     ['arroweng'] = {
