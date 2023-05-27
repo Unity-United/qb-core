@@ -170,6 +170,7 @@ QBShared.Jobs = {
 	},
     ['airline'] = {
 		label = 'Airline Member',
+        type = 'airline',
 		defaultDuty = true,
 		offDutyPay = false,
 		grades = {
