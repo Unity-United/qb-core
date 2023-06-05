@@ -5839,16 +5839,6 @@ QBShared.Vehicles = {
         ['hash'] = `rampov`,
         ['shop'] = 'luxury',
     },
-    ['rescue1'] = {
-        ['name'] = 'SAFR Only | rescue1',
-        ['brand'] = 'Dodge',
-        ['model'] = 'rescue1',
-        ['price'] = 72000,
-        ['category'] = 'medic',
-        ['categoryLabel'] = 'medic',
-        ['hash'] = `rescue1`,
-        ['shop'] = 'luxury',
-    },
     ['safr412'] = {
         ['name'] = 'SAFR Only | safr412',
         ['brand'] = 'Dodge',
