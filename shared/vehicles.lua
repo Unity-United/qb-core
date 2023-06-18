@@ -3891,14 +3891,24 @@ QBShared.Vehicles = {
         ['hash'] = `toreador`,
         ['shop'] = 'pdm',
     },
-    ['razerhycade34'] = {
-        ['name'] = 'R34 GTR Hycade',
+    ['skyline'] = {
+        ['name'] = 'Skyline R34',
         ['brand'] = 'Nissan',
-        ['model'] = 'razerhycade34',
+        ['model'] = 'skyline',
         ['price'] = 50000,
         ['category'] = 'sports',
         ['categoryLabel'] = 'sports',
-        ['hash'] = `razerhycade34`,
+        ['hash'] = `skyline`,
+        ['shop'] = 'luxury',
+    },
+    ['agtr35'] = {
+        ['name'] = 'GTR',
+        ['brand'] = 'Nissan',
+        ['model'] = 'agtr35agtr35',
+        ['price'] = 50000,
+        ['category'] = 'sports',
+        ['categoryLabel'] = 'sports',
+        ['hash'] = `agtr35`,
         ['shop'] = 'luxury',
     },
     --- Super
