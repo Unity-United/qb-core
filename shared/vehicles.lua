@@ -2248,6 +2248,16 @@ QBShared.Vehicles = {
         ['hash'] = `xls`,
         ['shop'] = 'pdm',
     },
+    ['bentaygaplsd'] = {
+        ['name'] = 'Bentayga',
+        ['brand'] = 'Bentley',
+        ['model'] = 'bentaygaplsd',
+        ['price'] = 120000,
+        ['category'] = 'suvs',
+        ['categoryLabel'] = 'SUVs',
+        ['hash'] = `bentaygaplsd`,
+        ['shop'] = 'luxury',
+    },
     ['granger2'] = {          --DLC +set sv_enforceGameBuild 2545
         ['name'] = 'Granger 3600LX',
         ['brand'] = 'Declasse',
