@@ -4362,6 +4362,16 @@ QBShared.Vehicles = {
         ['hash'] = `gcmlamboultimae`,
         ['shop'] = 'luxury',
     },
+    ['18performante'] = {
+        ['name'] = 'Huracan',
+        ['brand'] = 'Lamborghini',
+        ['model'] = '18performante',
+        ['price'] = 340000,
+        ['category'] = 'super',
+        ['categoryLabel'] = 'Super',
+        ['hash'] = `18performante`,
+        ['shop'] = 'luxury',
+    },
     ['zorrusso'] = {                            --DLC
         ['name'] = 'Zorrusso',
         ['brand'] = 'Pegassi',
