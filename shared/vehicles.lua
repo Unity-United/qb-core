@@ -2489,6 +2489,16 @@ QBShared.Vehicles = {
         ['hash'] = `washington`,
         ['shop'] = 'pdm',
     },
+    ['ocnetrongt'] = {
+        ['name'] = 'E-TRON',
+        ['brand'] = 'Audi',
+        ['model'] = 'ocnetrongt',
+        ['price'] = 60000,
+        ['category'] = 'sedans',
+        ['categoryLabel'] = 'Sedans',
+        ['hash'] = `ocnetrongt`,
+        ['shop'] = 'pdm',
+    },
     ['tailgater2'] = {                            --DLC +set sv_enforceGameBuild 2372
         ['name'] = 'Tailgater S',
         ['brand'] = 'Obey',
