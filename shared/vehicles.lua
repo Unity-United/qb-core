@@ -2527,6 +2527,16 @@ QBShared.Vehicles = {
         ['category'] = 'sedans',
         ['categoryLabel'] = 'Sedans',
         ['hash'] = `bmw8mm`,
+        ['shop'] = 'pdm',
+    },
+    ['dtdmansq60'] = {
+        ['name'] = 'Q60',
+        ['brand'] = 'Infinity',
+        ['model'] = 'dtdmansq60',
+        ['price'] = 100000,
+        ['category'] = 'sedans',
+        ['categoryLabel'] = 'Sedans',
+        ['hash'] = `dtdmansq60`,
         ['shop'] = 'luxury',
     },
     ['tailgater2'] = {                            --DLC +set sv_enforceGameBuild 2372
