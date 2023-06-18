@@ -2539,6 +2539,16 @@ QBShared.Vehicles = {
         ['hash'] = `dtdmansq60`,
         ['shop'] = 'luxury',
     },
+    ['msls'] = {
+        ['name'] = 'SLS AMG',
+        ['brand'] = 'Mercedes',
+        ['model'] = 'msls',
+        ['price'] = 100000,
+        ['category'] = 'sedans',
+        ['categoryLabel'] = 'Sedans',
+        ['hash'] = `msls`,
+        ['shop'] = 'luxury',
+    },
     ['tailgater2'] = {                            --DLC +set sv_enforceGameBuild 2372
         ['name'] = 'Tailgater S',
         ['brand'] = 'Obey',
