@@ -4342,6 +4342,16 @@ QBShared.Vehicles = {
         ['hash'] = `22lp610`,
         ['shop'] = 'luxury',
     },
+    ['jes21'] = {
+        ['name'] = 'Jesko',
+        ['brand'] = 'Koenigsegg',
+        ['model'] = 'jes21',
+        ['price'] = 340000,
+        ['category'] = 'super',
+        ['categoryLabel'] = 'Super',
+        ['hash'] = `jes21`,
+        ['shop'] = 'luxury',
+    },
     ['zorrusso'] = {                            --DLC
         ['name'] = 'Zorrusso',
         ['brand'] = 'Pegassi',
