@@ -2519,6 +2519,16 @@ QBShared.Vehicles = {
         ['hash'] = `m4comp`,
         ['shop'] = 'luxury',
     },
+    ['bmw8mm'] = {
+        ['name'] = 'M8',
+        ['brand'] = 'BMW',
+        ['model'] = 'bmw8mm',
+        ['price'] = 60000,
+        ['category'] = 'sedans',
+        ['categoryLabel'] = 'Sedans',
+        ['hash'] = `bmw8mm`,
+        ['shop'] = 'luxury',
+    },
     ['tailgater2'] = {                            --DLC +set sv_enforceGameBuild 2372
         ['name'] = 'Tailgater S',
         ['brand'] = 'Obey',
